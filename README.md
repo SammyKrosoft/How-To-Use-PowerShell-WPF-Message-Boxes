@@ -15,7 +15,7 @@ Add-Type -AssemblyName presentationframework
 - To use the MessageBox class to create a Message Box in powershell, we are just using the following format:
 
 ```powershell
-[.NET class}::Method()
+[.NET class]::Method()
 ```
 
 for example, to show a box, we will call the .NET class System.Windows.MessageBox, with the "Show()" method:
