@@ -2,7 +2,8 @@
 Quick inline PowerShell tutorial to use GUI Message Boxes in PowerShell...
 
 ## Prerequisites
-- This sample Uses the .NET System.Windows.Messagebox .NET class to display message boxes More information in the below link:
+- This sample Uses the .NET System.Windows.Messagebox .NET class to display message boxes More information in the below link
+
 [link](https://docs.microsoft.com/en-us/dotnet/api/system.windows.messagebox?view=netframework-4.8){:target="_blank"}
 
 
